@@ -1,6 +1,6 @@
-module github.com/capybara120404/final-project-8-sprint
+module github.com/capybara120404/parcel-tracker
 
-go 1.23.1
+go 1.23.2
 
 require (
 	github.com/stretchr/testify v1.9.0
